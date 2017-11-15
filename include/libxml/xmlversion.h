@@ -29,28 +29,28 @@ XMLPUBFUN void XMLCALL xmlCheckVersion(int version);
  *
  * the version string like "1.2.3"
  */
-#define LIBXML_DOTTED_VERSION "2.9.4"
+#define LIBXML_DOTTED_VERSION "2.9.7"
 
 /**
  * LIBXML_VERSION:
  *
  * the version number: 1.2.3 value is 10203
  */
-#define LIBXML_VERSION 20904
+#define LIBXML_VERSION 20907
 
 /**
  * LIBXML_VERSION_STRING:
  *
  * the version number string, 1.2.3 value is "10203"
  */
-#define LIBXML_VERSION_STRING "20904"
+#define LIBXML_VERSION_STRING "20907"
 
 /**
  * LIBXML_VERSION_EXTRA:
  *
  * extra version information, used to show a CVS compilation
  */
-#define LIBXML_VERSION_EXTRA "-GITv2.9.4-1-g46be86f2"
+#define LIBXML_VERSION_EXTRA "-GITv2.9.7"
 
 /**
  * LIBXML_TEST_VERSION:
